@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Sekmen</h1>
 <h3 align="center">Computer Engineer | Android Development | Software Test Automation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfaruksekmen&label=Profile%20views&color=0e75b6&style=flat" alt="omerfaruksekmen" /> </p>
 
 - 🌱 I’m currently learning **Android, Kotlin, Jetpack Compose,Test Automation**
 
