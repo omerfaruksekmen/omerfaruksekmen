@@ -2,6 +2,7 @@
 <h3 align="center">Computer Engineer | Android Development | Software Test Automation</h3>
 
 
+
 - 🌱 I’m currently learning **Android, Kotlin, Jetpack Compose,Test Automation**
 
 <h3 align="left">Connect with me:</h3>
