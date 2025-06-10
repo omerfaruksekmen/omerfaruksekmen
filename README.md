@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruksekmen&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c3/16/27/c3162775635d404d6462187ea4b5941f.gif"  />
+<img align="right" height="100" src="https://i.pinimg.com/originals/c3/16/27/c3162775635d404d6462187ea4b5941f.gif"  />
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
