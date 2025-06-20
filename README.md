@@ -12,11 +12,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  I am open to collaborations.
 * 🚀 I enjoy combining deep learning with practical applications to solve real-world problems and develop impactful tools.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerfaruksekmen&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfaruksekmen&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruksekmen&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
+![omerfaruksekmen's Stats](https://github-readme-stats.vercel.app/api?username=omerfaruksekmen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![omerfaruksekmen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruksekmen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <img align="right" height="100" src="https://i.pinimg.com/originals/c3/16/27/c3162775635d404d6462187ea4b5941f.gif"  />
 
