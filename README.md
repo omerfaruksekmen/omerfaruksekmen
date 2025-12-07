@@ -12,10 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  I am open to collaborations.
 * 🚀 I enjoy combining deep learning with practical applications to solve real-world problems and develop impactful tools.
 
-![omerfaruksekmen's Stats](https://github-readme-stats.vercel.app/api?username=omerfaruksekmen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![omerfaruksekmen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruksekmen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-<img align="right" height="100" src="https://i.pinimg.com/originals/c3/16/27/c3162775635d404d6462187ea4b5941f.gif"  />
+<img align="right" height="100" src="https://giffiles.alphacoders.com/819/81922.gif"  />
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
